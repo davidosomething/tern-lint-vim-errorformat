@@ -4,6 +4,10 @@
 var x;
 
 x = 'abc';
-y = Math.abs('1');
+
+console.log('hi');
+
+var y = Math.abs('1');
+console.log(y);
 
 
