@@ -1,0 +1,17 @@
+{
+  "name": "ternlint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tl": "tern-lint --format"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tern-lint": "^0.6.0"
+  },
+  "devDependencies": {
+    "eslint-config-davidosomething": "^1.1.0"
+  }
+}

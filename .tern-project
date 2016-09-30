@@ -1,0 +1,13 @@
+{
+  "libs": [
+    "browser",
+    "jquery"
+  ],
+  "loadEagerly": [
+    "index.js"
+  ],
+  "plugins": {
+    "doc_comment":{"strong": true},
+    "lint": {}
+  }
+}
